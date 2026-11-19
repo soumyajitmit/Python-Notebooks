@@ -1,13 +1,21 @@
 # The Analysis
 ### 1. What are the most demanded skills for the top 3 most popular data roles?
 
-The top 3 popular roles assumed here are Data Analyst, Data Scientist and Data Engineer. The analysis was also limited to the geographic location of the United States.
+Skills Demand Analysis
 
-Now the top 5 skills were filtered out by generating the size of each skill for each role by exploding the 'job_skills' column to get an idea as to how many times a particular skill was mentioned.
+The analysis focuses on the three most popular roles: Data Analyst, Data Scientist, and Data Engineer, with the geographic scope restricted to the United States.
 
-Next the percentages were calculated using the count of mention of the skill divided by the total job postings of a particular role, which led to the percentage of postings which required a certain skill to be present there.
+The top five skills for each role were identified by counting skill mentions after exploding the 'job_skills' column. Skill demand was calculated as the percentage of total job postings for each role that mentioned a particular skill.
 
-![alt text](<Project 1 (Luke Barousse)/Skills_Demand_Picture.png>)
+#### Key Findings:
+
+![alt text](<Project 1 (Luke Barousse)/Final Project/images/Skills_Demand_Picture.png>)
+
+
+SQL and Python are among the most in-demand skills across all three roles, particularly for Data Scientists and Data Engineers.
+
+Data Analyst roles show stronger demand for SQL, Excel, and Tableau, reflecting their emphasis on data analysis, reporting, and business intelligence.
+
 
 The findings, for the top 5 skills for each of the three most popular roles were shown as below.
 
