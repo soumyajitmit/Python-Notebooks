@@ -1,3 +1,27 @@
+# Overview
+
+The project was created to understand the Job Market, particularly focusing around Data Related Roles more effectively. It focuses on the top-paying and in-demand skills to help find optimal job opportunities for data analysts.
+
+# Key Questions Answered
+
+1. What are the most demanded skills for the top 3 most popular data roles?
+
+2. How are in-demand skills trending for Data Analysts?
+
+3. How well do jobs and skills pay for Data Analysts?
+
+4. What is the most optimal skill to learn for Data Analysts?
+
+# Tools Used
+
+- **Python:** Usage of the language and also critical libraries like *Pandas, Matplotlib, and Seaborn* for data manipulation, cleaning and visualization aiding final analysis
+
+- **Jupyter Notebooks:** Tool used to run python scripts and obtain desired output for analysis
+
+- **Visual Code Studio:** Platform for executing the python scripts on Jupyter Notebook
+
+- ** Git & GitHub:** For version control and sharing Python Code and Analysis 
+
 # The Analysis
 ### 1. What are the most demanded skills for the top 3 most popular data roles?
 
@@ -117,6 +141,11 @@ Although certain specialised skills command significantly higher salaries, the n
 
 In contrast, developing widely sought-after skills with strong market demand may offer greater practical value and broader career opportunities.
 
+The steps followed for the conclusion are documented in the following link:
+
+[4_Salary_Analysis.ipynb](Project%201%20(Luke%20Barousse)/Final%20Project/4_Salary_Analysis.ipynb)
+
+
 ### 4. What is the most optimal skill to learn for Data Analysts?
 
 ![alt text](<Project 1 (Luke Barousse)/Final Project/images/Skill vs Salary.png>)
@@ -131,4 +160,22 @@ In contrast, developing widely sought-after skills with strong market demand may
 
 - Lastly, analyst tools like excel, word and powerpoint are the most basic skills for Data Analysts, which will open entry level salaries
 
+Detailed steps can be found in the link below:
 
+[5_Optimal Skills.ipynb](Project%201%20(Luke%20Barousse)/Final%20Project/5_Optimal%20Skills.ipynb)
+
+# Core Insights
+
+\- **SQL and Python are the most valuable foundational skills:** They consistently rank among the most demanded skills across Data Analyst, Data Scientist, and Data Engineer roles, making them highly transferable across the data domain.
+
+\- **Data Analyst roles prioritise business intelligence and reporting:** Excel, Tableau, and Power BI complement SQL and Python, highlighting the importance of translating data into actionable business insights.
+
+\- **Specialised technologies offer higher salaries but fewer opportunities:** Skills such as cloud technologies, GitLab, Couchbase, and Solidity command higher median salaries, but their limited demand makes them less reliable as primary career investments.
+
+\- **The optimal strategy is to balance demand with earning potential:** Building proficiency in SQL, Python, and visualisation tools such as Tableau or Power BI offers a stronger combination of employability, career flexibility, and competitive compensation than focusing exclusively on niche, high-paying technologies.
+
+# Conclusion
+
+The exploration into the job market was informative, highlighting critical skills and their relevance, along with their trend with time.
+
+The analysis can be useful to provide actionable guidance with respect to relevant skills and at the same time provide realistic expectation setting as to the pay and relevance of existing and required skillset.
