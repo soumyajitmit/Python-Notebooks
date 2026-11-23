@@ -56,3 +56,79 @@ The following things were observed:
 The steps followed for the conclusion are documented in the following link:
 
 [3_Skills_Trend.ipynb](<Final Project/3_Skills_Trend.ipynb>)
+
+### 3. How well do jobs and skills pay for Data Analysts?
+
+![](<Project 1 (Luke Barousse)/Final Project/images/Salary Analysis.png>)
+
+- Senior Data Scientists command the highest median salary at $155K, followed by Senior Data Engineers at $150K.
+
+- Data Analysts have the lowest median salary at $90K, highlighting a significant pay gap compared to other data roles.
+
+- Data Scientists and Data Engineers have relatively wider salary distributions, indicating greater variation in compensation.
+
+- Senior roles generally offer higher median salaries than their non-senior counterparts, reflecting the premium associated with experience and specialization.
+
+- Data Scientists show the highest salary outliers, with a few salaries exceeding $550K.
+
+- Data Analysts and Senior Data Analysts have comparatively narrower salary distributions, suggesting more concentrated compensation ranges.
+
+- Salary distributions are positively skewed across all roles, with several high-paying outliers extending beyond the upper whiskers.
+
+#### When analysing the skills
+
+![alt text](<Project 1 (Luke Barousse)/Final Project/images/pay vs skills.png>)
+
+It is observed that:
+
+- Skills involving cloud technologies have the highest salaries but when deep dived into, the jobs with such requirement are very rare as shown below
+
+| Job Skill | Count | Median Yearly Salary |
+|:---|---:|---:|
+| dplyr | 2 | $196,250 |
+| bitbucket | 3 | $189,000 |
+| gitlab | 3 | $186,000 |
+| solidity | 1 | $179,000 |
+| hugging face | 1 | $175,000 |
+| couchbase | 1 | $160,515 |
+| ansible | 1 | $159,640 |
+| mxnet | 2 | $149,000 |
+| cassandra | 6 | $148,250 |
+| vmware | 1 | $147,500 |
+
+- On the contrary, the most requested skills have high requirements and decent salary brackets around $80K to $100K
+
+| Job Skill | Count | Median Yearly Salary |
+|:---|---:|---:|
+| python | 1,431 | $97,500 |
+| tableau | 1,364 | $92,875 |
+| r | 893 | $92,500 |
+| sql server | 286 | $92,500 |
+| sql | 2,508 | $91,000 |
+| sas | 926 | $90,000 |
+| power bi | 838 | $90,000 |
+| powerpoint | 462 | $85,000 |
+| excel | 1,808 | $84,392 |
+| word | 461 | $81,195 |
+
+- Also, knowing more advanced technologies like python, r, sql, pays more than basic skills like powerpoint, excel and word
+
+Although certain specialised skills command significantly higher salaries, the number of available opportunities is relatively limited. 
+
+In contrast, developing widely sought-after skills with strong market demand may offer greater practical value and broader career opportunities.
+
+### 4. What is the most optimal skill to learn for Data Analysts?
+
+![alt text](<Project 1 (Luke Barousse)/Final Project/images/Skill vs Salary.png>)
+
+- Focus should be more on programming and analyst tools to get high paying and broader range of opportunities
+
+- Technologies like **python, tableau and sql are the most common and decently paying skills** required for analytics
+
+- Power BI, r and SAS technologies lie in the mid segment of requirement and salaries, they are relevant in terms of pay but are relatively lesser required than SQL
+
+- Some technologies can secure very high pay like oracle, sql server, but have very rare job postings with the requirement of the same, hence limits opportunities
+
+- Lastly, analyst tools like excel, word and powerpoint are the most basic skills for Data Analysts, which will open entry level salaries
+
+
